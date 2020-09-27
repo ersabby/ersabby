@@ -72,7 +72,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersabby)](https://github.com/ersabby/github-readme-stats)
-![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=ersabby&show_icons=true&theme=radical)
+[![Sabby's github stats](https://github-readme-stats.vercel.app/api?username=ersabby)](https://github.com/ersabby/github-readme-stats)
 
 * * *
 
