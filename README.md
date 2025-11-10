@@ -1,5 +1,3 @@
-![Website](https://raw.githubusercontent.com/ersabby/ersabby/master/assets/images/header.png)
-
 <p align="center">
 <a href="https://twitter.com/ersabby?ref_src=twsrc%5Etfw"> <img src="https://img.shields.io/twitter/follow/ersabby?color=1DA1F2&logo=twitter&style=for-the-badge" alt=""> </a>
 </p>
